@@ -1,0 +1,45 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+  } 
+* {
+  font-family: arial;
+  background-color: lightgrey;
+   font-size: 15px;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  background-color: grey;
+  }
+  
+h2 {
+  font-size: 35px;
+  background-color: grey 
+}
+
+h3 {
+  font-size: 22px;
+  color: grey;
+    }
+  
+a {
+ color: orange; 
+ font-weight: bold;
+}
+
+.koala {
+ display: flex;
+ flex-direction: row-reverse;
+ justify-content: center;
+ }
+ 
+img {height: 300px;
+ width: 300px;
+ }
+ 
+.image_description {
+  font-size: 12px;
+}
